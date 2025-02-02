@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 <h1 align="center">Hi 👋, I'm Pat.</h1>
-<h3 align="center">A passionate fullstack developer from Thailand. From now on, it will be my adventure to keep upgrading my skills from my past experiences.</h3>
+<h3 align="center">I'm a student at KMITL, specializing in the Internet of Things. I'm passionate about full stack development. From now on, it will be my adventure to keep upgrading my skills from my past experiences.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patdanai767" alt="patdanai767" /></a> </p>
 
